@@ -1,0 +1,25 @@
+body{
+    background-image: url(fondo.jpg);
+    
+}
+div h2{
+    
+ text-align: center;
+ background-color: yellow;
+ font-family: cursive;
+}
+li{
+    text-align: center
+}
+#metodo{
+    text-align: center;
+    color: brown;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#sobrenos{
+    border: double 5px orange;
+    align-items: center;
+}
+a:hover{
+    color: crimson;
+}
